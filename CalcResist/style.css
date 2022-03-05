@@ -1,0 +1,31 @@
+#result{
+    border: 1px solid black;
+    height: 20px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+div{
+    background-color: rgb(207, 230, 230);
+    border: 1px solid black;
+    width: 100%;
+}
+.final{
+    display: none;
+    width: 50%;
+    margin-left: 24%;
+}
+#faixa{
+    width: 60%;
+    margin-left: 19%;
+}
+#formu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+
+body{
+    text-align: center;
+    display: flex;
+}
